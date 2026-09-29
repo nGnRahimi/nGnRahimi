@@ -6,16 +6,20 @@
 
 I'm passionate about building backend applications and learning how things work behind the scenes.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- 💻 C#
-- 🌐 ASP.NET Core
-- 🗄️ Entity Framework Core
-- 🛢️ SQL Server
-- 🔐 ASP.NET Core Identity
-- 🏗️ Clean Architecture
-- 🔄 CQRS & MediatR
-- 🧰 Git & GitHub
+Backend  
+C# • ASP.NET Core • .NET
+
+Database  
+SQL Server • Entity Framework Core
+
+Architecture  
+Clean Architecture • DDD • CQRS
+
+Tools  : 
+Git • GitHub • Docker • Visual Studio
+
   ## 🚀 Projects
 
 ### 🏨 Hotel Reservation System

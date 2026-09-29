@@ -29,12 +29,12 @@ A backend-focused hotel reservation system built with ASP.NET Core, Entity Frame
 An online bookstore built with ASP.NET Core MVC, Entity Framework Core, SQL Server, and ASP.NET Core Identity.
 ## 🌱 Currently Learning
 
-- 🏗️ Domain-Driven Design (DDD)
-- 🧩 Clean Architecture
-- 🔄 CQRS & MediatR
-- 🐳 Docker
-- ⚡ Redis & Caching
-- 🧠 Software Design & Architecture
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- CQRS & MediatR
+- Docker
+- Redis & Caching
+- Software Design & Architecture
   ## 🤝 Connect With Me
 
 - 📧 Email

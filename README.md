@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./Hello.gif" width="700">
+  <img src="./Hello.gif" width="300">
 </p>
-# Hello, World! 👋🏻
 
 ### I'm a Backend Developer 👩🏻‍💻
 

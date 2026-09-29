@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./CodingRed.gif" width="700">
+  <img src="./Hello.gif" width="700">
 </p>
 # Hello, World! 👋🏻
 

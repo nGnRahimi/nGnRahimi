@@ -35,6 +35,4 @@ An online bookstore built with ASP.NET Core MVC, Entity Framework Core, SQL Serv
 - Docker
 - Redis & Caching
 - Software Design & Architecture
-  ## 🤝 Connect With Me
-
-- 📧 Email
+ 

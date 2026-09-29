@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./coding.gif" width="700">
+  <img src="./CodingRed.gif" width="700">
 </p>
-
 # Hello, World! 👋🏻
 
 ### I'm a Backend Developer 👩🏻‍💻

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Hello.gif" width="350">
+  <img src="./Hello.gif" width="200">
 </p>
 
 ### I'm a Backend Developer 👩🏻‍💻
